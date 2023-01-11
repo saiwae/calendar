@@ -1,0 +1,33 @@
+table {
+    width: 100%;
+}
+h1 {
+    text-align: center;
+ }
+td, th {
+    border: 2px solid black;
+    width: 14.27%;
+    text-align: left;
+}
+th {
+    padding: 5px 0;
+    background-color: #80497d;
+    color: white;
+}
+td {
+    font-weight: bold;
+    background-color: #e0d1d7;
+    font-size: 24px;
+    padding-bottom: 32px;
+    vertical-align: top;
+}
+.weekend {
+    background-color: #a886a3;
+    color: white;
+}
+.no-school {
+    background-color: #d3c1c9;
+}
+.we-act {
+    background-color: #dac3e0;
+}
